@@ -32,3 +32,9 @@ Dive into the worlds of Marvel, DC, and many more — all in your pocket.
 - npm install
 - npx expo prebuild --platform android
 - npm run android
+
+https://github.com/user-attachments/assets/13d034b8-9a94-4574-ba9b-bec972b9adbf
+
+https://github.com/user-attachments/assets/75139675-c6f3-4092-9a9a-a5be3e3cbe70
+
+https://github.com/user-attachments/assets/88f3d582-12d1-419d-a045-b26281bb6360
